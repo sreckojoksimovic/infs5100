@@ -13,3 +13,11 @@ ash -- Amount of ash per 100 grams in the sample
 sodium -- Amount of sodium per 100 grams in the sample
 carb -- Amount of carbohydrates per 100 grams in the sample
 cal -- Amount of calories per 100 grams in the sample
+
+
+camden_census_data.csv
+
+Downloaded from CRDC Data (https://data.cdrc.ac.uk/).
+Citation and Copyright:
+	Contains National Statistics data Crown copyright and database right 2020.
+	Contains Ordnance Survey data Crown copyright and database right 2020.
